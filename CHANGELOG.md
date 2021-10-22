@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v2.0.0...v2.0.1) (2021-10-22)
+
+
+### Miscellaneous Chores
+
+* add badges ([77bc79f](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/77bc79f1d437f1b8a5082e437a4f90cb27c0558a))
+
 ## [2.0.0](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v1.0.0...v2.0.0) (2021-10-21)
 
 
