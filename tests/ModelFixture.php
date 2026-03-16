@@ -19,4 +19,9 @@ class ModelFixture implements SourceModelInterface
     {
         return 'model-primary-key';
     }
+
+    public function getReference()
+    {
+        return 'ref-123';
+    }
 }

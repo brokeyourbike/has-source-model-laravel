@@ -34,11 +34,3 @@ jobs:
       uses: codecov/codecov-action@v2
       with:
         files: ./coverage.xml
-
-    - name: Upload coverage to codeclimate
-      uses: paambaati/codeclimate-action@v3.0.0
-      env:
-        CC_TEST_REPORTER_ID: ${{ secrets.CODECLIMATE_TOKEN }}
-      with:
-        coverageCommand: ''
-        coverageLocations: ./coverage.xml:clover

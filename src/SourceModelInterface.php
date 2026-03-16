@@ -19,4 +19,11 @@ interface SourceModelInterface
      * @return mixed
      */
     public function getKey();
+
+    /**
+     * Get the value of the model's reference.
+     *
+     * @return string
+     */
+    public function getReference();
 }

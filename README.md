@@ -2,8 +2,6 @@
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/has-source-model-laravel)](https://github.com/brokeyourbike/has-source-model-laravel/releases)
 [![Total Downloads](https://poser.pugx.org/brokeyourbike/has-source-model/downloads)](https://packagist.org/packages/brokeyourbike/has-source-model)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a679ea98492b9bd65987/maintainability)](https://codeclimate.com/github/brokeyourbike/has-source-model-laravel/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a679ea98492b9bd65987/test_coverage)](https://codeclimate.com/github/brokeyourbike/has-source-model-laravel/test_coverage)
 
 Interface for interacting with source models.
 
