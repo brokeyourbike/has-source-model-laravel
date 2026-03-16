@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.0.0](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v2.0.1...v3.0.0) (2026-03-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* braking
+
+### Features
+
+* reference ([cb25541](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/cb2554148580446f7621f7c30bda3fcc98dfa720))
+
+
+### Bug Fixes
+
+* braking ([25e561f](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/25e561f45a85c5f5ad85aa6fd76fa303f83f474a))
+
+
+### Miscellaneous Chores
+
+* button ([4580864](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/458086439341e3513edfc43b4dfdc17d97c4fd8c))
+
 ### [2.0.1](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v2.0.0...v2.0.1) (2023-05-14)
 
 
